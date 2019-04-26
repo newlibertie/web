@@ -27,5 +27,5 @@
 /* background image under construction */
 body {
   background-image: url("../public/under-construction.jpeg");
-    background-repeat: repeat-x;
+  background-repeat: repeat-x;
 }
