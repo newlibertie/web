@@ -5,6 +5,9 @@ TS=$(date +%Y%m%d%H%M%S)
 
 pushd newlibertie
 
+CI=true npm test || exit failed unit tests
+
+
 rm -rf build
 
 npm run build || exit failed to build deployable package
