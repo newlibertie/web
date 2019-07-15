@@ -27,11 +27,13 @@ Each rectangular poll summary box will have the following visually
    link to poll page
 
 
+5. create poll page.  there has to be save, cancel, and launch poll buttons at the bottom.  on the main content area there are following elements : 1) drop down list for type of poll.  2) drop down for closing date,   3) large text box for poll topic description, 4) small text box (one line) for poll choice description with an "Add Choice" button next to it,  5) a set of choices already added are shown below this.
+
+6. close poll - edit participants page 
 
 
-5. account page
+7. account page
 
 tabs : list of past polls created by me
 list of past polls voted by me
 account status - balance/payment
-6. create poll page (you can imagine simple widgets/form to add choices and to write main question)
