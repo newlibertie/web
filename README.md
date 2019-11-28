@@ -1,5 +1,5 @@
-# web
-website
+# web repo
+React website for newlibertie.org
 
 # instructions
 
