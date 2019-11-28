@@ -1,8 +1,7 @@
 # web react website
-website
+React website for newlibertie.org
 
 # instructions
-
 Inside newlibertie directory, you can run several commands:
 
     npm start
